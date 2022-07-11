@@ -17,7 +17,7 @@ Deux éditeurs ayant deux buts différents existe:
 
 - Un éditeur complet qui permet de modifier l'ensemble des cours puis de les envoyer à la vérification
 
-    [Lien vers l'éditeur](https://github.dev/)
+    [Lien vers l'éditeur](https://github.dev/Cours-ESIR/Cours)
 
 
 Nous ne traiterons ici que le cas du deuxième éditeur puisque le premier ne traite que du visuel du cours.
