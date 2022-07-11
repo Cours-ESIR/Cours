@@ -23,10 +23,13 @@ Deux éditeurs ayant deux buts différents existe:
 Nous ne traiterons ici que le cas du deuxième éditeur puisque le premier ne traite que du visuel du cours.
 
 Voici une vue globale de l'éditeur
+
 ![vue globale](https://i.imgur.com/WNEfZGg.png)
+
 Vous pourrez ici modifier, créer, supprimer, déplacer les fichiers et de même avec les dossiers, comme dans un exploreur de fichiers.
 
 Quand vous aurez effectuer ces modifications, un (1) apparaitra sur un logo dans le menu de gauche : cliquez dessus. Un menu repertoriant vos changements apparait : cliquez sur le bouton entouré en rouge. Ensuite remplissez le titre et la description des modifications, puis cliquez sur "create".
+
 ![fork](https://i.imgur.com/VzPg3Wb.png)
 
 Voilà vous avez envoyez vos cours, il ne reste plus qu'à nos modérateurs de valider les modifications
