@@ -65,7 +65,31 @@ Avec :
 
 table de conductivité molaire ioniques limites : 
 
-![Table de conductivité molaire ionique](https://slideplayer.fr/slide/503275/2/images/12/3.2+Tableau+de+conductivit%C3%A9+molaire+ionique.jpg)
+### **Cations**
+
+| Nom       | Symbole      | $ \lambda^0(S.m^2.mol^{-1}) $ |
+| :-------: | :----------: | :---------------------------: |
+| oxonium   | $H_3O^+(aq)$ | $349.8×10^{-4}$               |
+| potassium | $K^+(aq)$    | $73.5×10^{-4}$                |
+| sodium    | $Na^+(aq)$   | $50.1×10^{-4}$                |
+| ammonium  | $NH_4^+(aq)$ | $73.5×10^{-4}$                |
+| lithium   | $Li^+(aq)$   | $38.7×10^{-4}$                |
+| césium    | $Cs^+(aq)$   | $77.3×10^{-4}$                |
+| rubidium  | $Rb^+(aq)$   | $77.8×10^{-4}$                |
+| argent    | $Ag^+(aq)$   | $61.9×10^{-4}$                |
+
+### **Anions**
+
+| Nom       | Symbole      | $ \lambda^0(S.m^2.mol^{-1}) $ |
+| :-------: | :----------: | :---------------------------: |
+| hydroxyde | $HO^-(aq)$ | $198.6×10^{-4}$ |
+| bromure | $Br^-(aq)$ | $78.1×10^{-4}$ |
+| iodure | $I^-(aq)$ | $76.8×10^{-4}$ |
+| chlorure | $Cl^-(aq)$ | $76.3×10^{-4}$ |
+| fluorure | $F^-(aq)$ | $55.4×10^{-4}$ |
+| nitrate | $NO_3^-(aq)$ | $71.4×10^{-4}$ |
+| éthanoate | $CH_3COO^-(aq)$ | $40.9×10^{-4}$ |
+| benzoate | $C_6H_5COO^-(aq)$ | $32.3×10^{-4}$ |
 
 ----
 
