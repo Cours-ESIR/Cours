@@ -20,6 +20,7 @@ $$
 $$
 le td1  
 $$
+
 \begin{split}
     &f:\R^2\rightarrow\R\n
 
