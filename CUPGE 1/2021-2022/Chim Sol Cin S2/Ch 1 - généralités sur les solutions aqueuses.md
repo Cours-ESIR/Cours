@@ -12,7 +12,7 @@
 
 **Conductivité :** La conductivité d'une solution ionique correspond à sa capacité à conduire le courant. Elle dépend de la nature des ions, de leur concentration et de la température. On la mesure en S/m. 
 
-/!\ Ne pas confondre conductance et conductivité ! La conductance dépend d'une électrode et de sa taille !
+:warning: Ne pas confondre conductance et conductivité ! La conductance dépend d'une électrode et de sa taille !
 
 ### B - Formules
 
