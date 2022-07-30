@@ -117,7 +117,7 @@ Exemples :
 
 ---
 
-## II - Electrolytes forts et faibles
+## III - Electrolytes forts et faibles
 
 Tous les éléments qui se dissolvent dans l'eau en donnant des ions sont appelés électrolyte. 
 
