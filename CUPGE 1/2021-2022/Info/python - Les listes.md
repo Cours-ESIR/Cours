@@ -4,6 +4,7 @@ Une liste est une suite de variables séparé par des virgules.
 Celle-ci peut être peut être utilisé pour avoir plein de variables en une seule.
 
 Illustration :
+
 ```python
 # il est plus judicieux de faire
 
@@ -48,6 +49,7 @@ liste3 = range(1, 10, 2) # pour créer une liste de 1 à 9 de deux en deux => [1
 ```
 
 Comment interagir avec:
+
 ```python
 liste0 = [7]
 liste0.append(5) # on ajoute 5 à la fin de la liste => liste0 = [7, 5]
