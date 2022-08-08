@@ -6,7 +6,10 @@ C’est une chaine de caractère
 
 on peut convertir une variable en string en écrivant : str(variable)
 
-## Un integer : C’est un nombre entier
+## Un integer
+
+C’est un nombre entier
+
 on peut convertir une variable en integer en écrivant : int(variable)
 
 ⚠ cette variable doit pouvoir être converti en entier
