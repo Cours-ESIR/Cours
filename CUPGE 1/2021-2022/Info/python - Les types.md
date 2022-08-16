@@ -26,6 +26,8 @@ C’est un nombre décimal
 
 on peut convertir une variable en float en écrivant : float(variable)
 
+:thumbsup:
+
 ⚠️ cette variable doit pouvoir être converti en décimal
 
 ```python
