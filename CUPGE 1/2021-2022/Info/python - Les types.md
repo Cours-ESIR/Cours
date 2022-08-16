@@ -12,7 +12,7 @@ C’est un nombre entier
 
 on peut convertir une variable en integer en écrivant : int(variable)
 
-⚠ cette variable doit pouvoir être converti en entier
+:warning: cette variable doit pouvoir être converti en entier
 
 ```python
 int("5")   # 5
