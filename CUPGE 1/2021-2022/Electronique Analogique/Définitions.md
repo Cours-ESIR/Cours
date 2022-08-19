@@ -1,27 +1,3 @@
-<style>
-
-@media (prefers-color-scheme: light){
-	:root	{
-		--background:rgb(255, 255, 255);
-        --compl:rgb(245,245,255);
-		--text:#000000;
-		--text-reverse:#ffffff;
-		--shadow:rgba(0, 0, 0, 0.1);
-	}
-}
-
-@media (prefers-color-scheme: dark){
-    :root	{
-        --background:rgb(25, 25, 35);
-        --compl:rgb(20, 20, 30);
-		--text:#ffffff;
-		--text-reverse:#000000;
-		--shadow:rgba(0, 0, 0, 0.3);
-	}
-}
-
-</style>
-
 # Définitions
 
 > **Une branche** est une partie d'un circuit ou passe un courant identique
