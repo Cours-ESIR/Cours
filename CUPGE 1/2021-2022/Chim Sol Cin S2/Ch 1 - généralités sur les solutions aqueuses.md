@@ -18,56 +18,56 @@
 
 **Formule liant la concentration molaire (C en mol/L) avec la quantité de matière (n en mol) et le volume (V en L) :**
 
-$ C = \frac{n}{V} $
+$C = \frac{n}{V}$
 
-**Formule liant la concentration massique** ($ C_m $ en g/L) **avec la masse (m en g) et le volume (V en L) :**
+**Formule liant la concentration massique** ($C_m$ en g/L) **avec la masse (m en g) et le volume (V en L) :**
 
-$ C_{m} = \frac{m}{V} $
+$C_{m} = \frac{m}{V}$
 
 **Formule liant la concentration massique** ($ C_m $ en g/L) **avec la concentration molaire (C en mol/L) et la masse molaire (M en g/mol) :**
 
-$ C_{m} = C.M $
+$C_{m} = C.M$
 
 **Equation de la dilution :**
 
-$ C_{f} . V_{f} = C_{i} . V_{i} $
+$C_{f} . V_{f} = C_{i} . V_{i}$
 
 Avec : 
 
-- $ C_{f} $ : la concentration de la solution finale (fille) en mol/L ou g/L
-- $ V_{f} $ : le volume de la solution finale en L
-- $ C_{i} $ : la concentration de la solution initiale (mère) en mol/L ou g/L
-- $ V_{i} $ : le volume de la solution initiale en L
+- $C_{f}$ : la concentration de la solution finale (fille) en mol/L ou g/L
+- $V_{f}$ : le volume de la solution finale en L
+- $C_{i}$ : la concentration de la solution initiale (mère) en mol/L ou g/L
+- $V_{i}$ : le volume de la solution initiale en L
 
 **Remarque :** Pour les concentrations, il est important de tout mettre en g/L opu tout mettre en mol/L mais de ne pas faire d'entre deux. 
 
 **Formule de la conductance (en Siemens) :** 
 
-$ G = \frac{S}{L}.\sigma $
+$G = \frac{S}{L}.\sigma$
 
 Avec : 
 
 - G : la conductance (S)
 - S : la surface des électrodes (m)
 - L : la distance entre les plaques (m)
-- $ \sigma $ : la conductivité de la solution (en S/m)
+- $\sigma$ : la conductivité de la solution (en S/m)
 
 **Formule de la conductivité molaire ionique :**
 
-$ \sigma = \sum \lambda_{i}^{o} . [X_{i}] $
+$\sigma = \sum \lambda_{i}^{o} . [X_{i}]$
 
 Avec : 
 
-- $ \sigma $ : la conductivité de la solution (en S/m)
-- $ \lambda_{i}^{o} $ : conductivité molaire limite de l'ion i en $ S.m^{2}.mol^{-1} $
-- $ [X_{i}] $ : Concentration molaire de l'ion i en $ mol.m^{-3} $
+- $\sigma$ : la conductivité de la solution (en S/m)
+- $\lambda_{i}^{o}$ : conductivité molaire limite de l'ion i en $S.m^{2}.mol^{-1}$ 
+- $[X_{i}]$ : Concentration molaire de l'ion i en $mol.m^{-3}$ 
 
 
 table de conductivité molaire ioniques limites : 
 
 ### **Cations**
 
-| Nom       | Symbole      | $ \lambda^0(S.m^2.mol^{-1}) $ |
+| Nom       | Symbole      | $\lambda^0(S.m^2.mol^{-1})$   |
 | :-------: | :----------: | :---------------------------: |
 | oxonium   | $H_3O^+(aq)$ | $349.8×10^{-4}$               |
 | potassium | $K^+(aq)$    | $73.5×10^{-4}$                |
@@ -80,16 +80,16 @@ table de conductivité molaire ioniques limites :
 
 ### **Anions**
 
-| Nom       | Symbole      | $ \lambda^0(S.m^2.mol^{-1}) $ |
-| :-------: | :----------: | :---------------------------: |
-| hydroxyde | $HO^-(aq)$ | $198.6×10^{-4}$ |
-| bromure | $Br^-(aq)$ | $78.1×10^{-4}$ |
-| iodure | $I^-(aq)$ | $76.8×10^{-4}$ |
-| chlorure | $Cl^-(aq)$ | $76.3×10^{-4}$ |
-| fluorure | $F^-(aq)$ | $55.4×10^{-4}$ |
-| nitrate | $NO_3^-(aq)$ | $71.4×10^{-4}$ |
-| éthanoate | $CH_3COO^-(aq)$ | $40.9×10^{-4}$ |
-| benzoate | $C_6H_5COO^-(aq)$ | $32.3×10^{-4}$ |
+| Nom       | Symbole           | $\lambda^0(S.m^2.mol^{-1})$   |
+| :-------: | :---------------: | :---------------------------: |
+| hydroxyde | $HO^-(aq)$        | $198.6×10^{-4}$               |
+| bromure   | $Br^-(aq)$        | $78.1×10^{-4}$                |
+| iodure    | $I^-(aq)$         | $76.8×10^{-4}$                |
+| chlorure  | $Cl^-(aq)$        | $76.3×10^{-4}$                |
+| fluorure  | $F^-(aq)$         | $55.4×10^{-4}$                |
+| nitrate   | $NO_3^-(aq)$      | $71.4×10^{-4}$                |
+| éthanoate | $CH_3COO^-(aq)$   | $40.9×10^{-4}$                |
+| benzoate  | $C_6H_5COO^-(aq)$ | $32.3×10^{-4}$                |
 
 ----
 
@@ -123,21 +123,21 @@ $$
 ### C. Les étapes de dissolution dans l'eau d'un soluté 
 
 
-| Nom | Définition | Exemple |
-| :-: | :--------: | :-----: |
-| Ionisation | Formation de paires d'ions | $ HCl_{(gaz)} \rightarrow (H^{+},Cl^{-}) $ |
-| Dissociation | Séparation des charges dans l'eau | $ (H^{+},Cl^{-}) \rightarrow H^{+} + Cl^{-} $ |
-| Hydratation | Les ions sont entourés de molécules d'eau | $ H^{+} + Cl^{-} \rightarrow {H^{+}}{(aq)} + {Cl^{-}}{(aq)} $ |
+| Nom          | Définition                                | Exemple                                                     |
+| :----------: | :---------------------------------------: | :---------------------------------------------------------: |
+| Ionisation   | Formation de paires d'ions                | $HCl_{(gaz)} \rightarrow (H^{+},Cl^{-})$                    |
+| Dissociation | Séparation des charges dans l'eau         | $(H^{+},Cl^{-}) \rightarrow H^{+} + Cl^{-}$                 |
+| Hydratation  | Les ions sont entourés de molécules d'eau | $H^{+} + Cl^{-} \rightarrow {H^{+}}{(aq)} + {Cl^{-}}{(aq)}$ |
 
 Dans certains cas, notamment pour les solides ionique, la phase d'ionisation est inutile car les éléments le sont déjà. 
 
 Exemples :
 
-| Molécule dissoute | Etapes | Equation de réaction |
-| :---------------: | :----: | :------------------: |
-| Solide ionique : $ NaCl_{(s)} $ | Dissociation + hydratation | $ NaCl_{(s)} \rightarrow Na^{+}_{(aq)} + Cl^{-}_{(aq)}  $ |
-| Soluté moléculaire : saccharose | Dispersation des molécules par hydratation des molécules | $ C_{12}H_{22}O_{11(s)} \rightarrow C_{12}H_{22}O_{11(aq)} $ |
-| Soluté moléculaire : $ HCl_{(g)} $ | Ionisation + Dissociation + Hydratation | $ HCl_{(gaz)} \rightarrow H^{+}_{(aq)} + Cl^{-}_{(aq)}  $
+| Molécule dissoute                | Etapes | Equation de réaction |
+| :------------------------------: | :------------------------------------------------------: | :------------------: |
+| Solide ionique : $NaCl_{(s)}$    | Dissociation + hydratation                               | $NaCl_{(s)} \rightarrow Na^{+}_{(aq)} + Cl^{-}_{(aq)}$ |
+| Soluté moléculaire : saccharose  | Dispersation des molécules par hydratation des molécules | $C_{12}H_{22}O_{11(s)} \rightarrow C_{12}H_{22}O_{11(aq)}$ |
+| Soluté moléculaire : $HCl_{(g)}$ | Ionisation + Dissociation + Hydratation                  | $HCl_{(gaz)} \rightarrow H^{+}_{(aq)} + Cl^{-}_{(aq)}$ |
 
 ---
 
@@ -162,7 +162,7 @@ On parle alors d'électrolyte faible.
 **Notion de coefficient d'ionisation :**
 Le coefficient d'ionisation, **compris entre 0 et 1** peut etre calculé de la manière suivante : 
 
-$ \alpha = \frac{\text{Quantité dissociée ou ionisée}}{\text{Quantité initiale}} $ 
+$\alpha = \frac{\text{Quantité dissociée ou ionisée}}{\text{Quantité initiale}}$ 
 
 
 
