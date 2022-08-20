@@ -2,7 +2,7 @@
 > 
 > $ U_R = R × I_R $
 > 
-> $ u(t) = R × i_R(t) $
+ $u(t) = R × i_R(t)$ 
 
 > **Loi Capacité**
 > 
