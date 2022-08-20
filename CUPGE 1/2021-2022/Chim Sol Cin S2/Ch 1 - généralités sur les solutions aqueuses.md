@@ -20,11 +20,11 @@
 
 $C = \frac{n}{V}$
 
-**Formule liant la concentration massique** ($C_m$ en g/L) **avec la masse (m en g) et le volume (V en L) :**
+**Formule liant la concentration massique** ( $C_m$ en g/L) **avec la masse (m en g) et le volume (V en L) :**
 
 $C_{m} = \frac{m}{V}$
 
-**Formule liant la concentration massique** ($ C_m $ en g/L) **avec la concentration molaire (C en mol/L) et la masse molaire (M en g/mol) :**
+**Formule liant la concentration massique** ( $C_m$ en g/L) **avec la concentration molaire (C en mol/L) et la masse molaire (M en g/mol) :**
 
 $C_{m} = C.M$
 
