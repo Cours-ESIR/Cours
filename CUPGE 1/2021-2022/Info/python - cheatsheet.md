@@ -1,5 +1,12 @@
 # Python - cheatsheet
 
+# Sommaire
+
+1. [Créer une variable][head_1]
+2. [Interagir avec l'utilisateur][head_2]
+3. [Les conditions][head_3]
+___
+
 ## Créer une variable
 
 * Pour déclarer une varibale il suffit de lui donner un nom :
@@ -25,18 +32,18 @@ age_utilisateur: int = 18
 
 * Pour demander à l'utilisateur d'écrire dans la console on utilise la fonction `input` :
 ```python
-nom_utilisateur: str = input('Veuillez entrer votre nom : ')
+nom_utilisateur: str = input("Veuillez entrer votre nom : "")
 ```
 
 * Dans le cas ou la valeur attendue n'est pas de type `str` il faudra la convertir *(on appelle cette opération un `cast`)* :
 ```python
-age_utilisateur: int = int(input('Quel age avez-vous : '))
+age_utilisateur: int = int(input("Quel age avez-vous : "))
 ```
 
 * De même on peut afficher des informations sur la console grâce à la fonction `print` :
 ```python
 nom_utilisateur: str = "Jean"
-print('Votre nom est', nom_utilisateur)
+print("Votre nom est", nom_utilisateur)
 ```
 
 * Pour formater plus facilement la sortie on peut utiliser cette synaxe :
@@ -56,14 +63,40 @@ je_suis_vrai: bool = True
 je_suis_faux: bool = False
 
 # comparaison logique
-comparaison_ou: bool = je_suis_vrai or je_suis_faux # le résultat est True
-comparaison_et: bool = je_suis_vrai and je je_suis_faux # le résultat est False
+
+# le résultat est True
+comparaison_ou: bool = je_suis_vrai or je_suis_faux
+# le résultat est False
+comparaison_et: bool = je_suis_vrai and je je_suis_faux
 
 # comparaison mathématique
+
 age_utilisateur: int = 18
+# le résultat est False
 mineur: bool = age_utilisateur < 18
+# le résultat est True
 majeur: bool = age_utilisateur >= 18
 
-a_juste_la_majorite: bool = age_utilisateur == 18 # vérifie l'égalité
+# vérifie l'égalité
+
+# le résultat est True
+a_juste_la_majorite: bool = age_utilisateur == 18
 ```
 *_note_ : il est recommandé due à la représentation des nombres réel dans la mémoire de l'ordinateur d'évité de comparer l'égalité entre deux réels.*
+
+* Pour écrire une condition on utilise le mot clé `if`,  
+dans le cas où la condtion n'est pas vérifié nous pouvons utiliser le mot clé `else`,  
+si on veut rajouter une couche de test il existe le mot clé `elif` :
+```python
+age_utilisateur: int = int(input("Quel est votre age : "))
+if age_utilisateur < 18:
+    print("Vous êtes mineur !")
+elif age_utilisateur == 18:
+    print("Vous venez d'avoir 18 ans !")
+else:
+    print("Vous êtes majeur")
+```
+
+[head_1]: ./python%20-%20cheatsheet.md#Créer%20une%20variable
+[head_2]: ./python%20-%20cheatsheet.md#Interagir%20avec%20l'ordinateur
+[head_3]: ./python%20-%20cheatsheet.md#Les%20conditions
