@@ -97,6 +97,6 @@ else:
     print("Vous êtes majeur")
 ```
 
-[head_1]: cours-esir.github.io/#/lessons/CUPGE+1/Info/python+-+cheatsheet.md#Créer+une+variable
-[head_2]: cours-esir.github.io/#/lessons/CUPGE+1/Info/python+-+cheatsheet.md#Interagir+avec+l'ordinateur
-[head_3]: cours-esir.github.io/#/lessons/CUPGE+1/Info/python+-+cheatsheet.md#Les+conditions
+[head_1]: #Créer+une+variable
+[head_2]: #Interagir+avec+l'ordinateur
+[head_3]: #Les+conditions
