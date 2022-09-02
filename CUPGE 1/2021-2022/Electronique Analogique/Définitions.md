@@ -1,4 +1,4 @@
-# Définitions
+# Les Définitions
 
 > **Une branche** est une partie d'un circuit ou passe un courant identique
 
