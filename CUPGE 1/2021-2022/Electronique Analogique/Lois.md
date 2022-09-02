@@ -1,58 +1,40 @@
+# Les lois
+
+## Lois de base
+
 > **Loi d'Ohm**
 > 
-> $ U_R = R × I_R $
+> $ U_R = R × I_R $ 
 > 
-- $u(t) = R × i_R(t)$ 
+> $ u(t) = R × i_R(t) $ 
 
 > **Loi Capacité**
 > 
 > $ i_C(t) = C × \frac{\partial{u_C(t)}}{\partial{t}} $
 
-// schéma
-
 > **Loi Inductance**
 > 
 > $ u_L(t) = L × \frac{\partial{i_L(t)}}{\partial{t}} $
 
+## Lois de Kirchhoff
 
-Lois de Kirchhoff
-
-Loi des noeud
-
-//schéma
-
-Au noeud A, la somme des courants qui rentre est égale à la somme des courants qui sortent
-
-$$
-I_1 + I_2 + I_3 = I_4 + I_5
-$$
-
-autre notation 
-
-// schéma
-
-$$
-
-I_i > 0 \ \ \ \text{entrant}
-\\ \ \\
-I_i < 0 \ \ \ \text{sortant}
-\\ \ \\
-\sum_{i}I_i=0
-
-$$
+> **Loi des noeud**
+>
+> Au noeud A, la somme des courants qui rentre est égale à la somme des courants qui sortent
+> 
+> $ I_1 + I_2 + I_3 = I_4 + I_5 $ 
 
 ### 1.2.2 : Loi des mailles
 
 exemples de circuits : 
-// schéma
 
-
+![lois des mailles](https://github.com/Cours-ESIR/Medias/raw/main/lois%20maille.png)
 
 Maille 1 : $E,R_1,R_2$
 
 Maille 2 : $R_2,R_3$
 
-Maille 3 : $R_2,R_3$
+Maille 3 : $E,R_1,R_3$
 
 > **Loi des mailles** 
 >
@@ -72,11 +54,9 @@ Maille 3 : $E-R_1I_1-R_3I_3=0$
 
 ### 1.3.1 : Résistance en série
 
-// schéma
+![Résistance en série](https://github.com/Cours-ESIR/Medias/raw/main/r%C3%A9sistances%20s%C3%A9rie.png)
 
 -> résistance équivalente
-
-// schéma
 
 $$
 
@@ -156,3 +136,50 @@ I_k = \frac{I}{R_k×\sum_{k=1}^{n}\frac{1}{R_k}}
 $$
 
 ## Théorème de Millman
+
+![Millman](http://res-nlp.univ-lemans.fr/NLP_C_M14_G01/res/Fig_16.gif)
+
+$$
+U_1 = R_1I_1
+\\ \ \\
+U_2 = R_2I_2
+\\ \ \\
+U_3 = R_3I_3
+\\ \ \\
+U_4 = R_4I_4
+\\ \ \\
+U_5 = R_5I_5
+
+\\ \ \\
+\\ \ \\
+
+R_kI_k = V_k-V_A
+\\ \ \\
+\sum_{k=1}^{N}I_k=0
+\\ \ \\
+\sum_{k=1}^{N}\frac{V_k-V_A}{R_k}=0
+\\ \ \\
+\sum_{k=1}^{N}\pembrace{\frac{V_k}{R_k}-\frac{V_A}{R_k}}=0
+\\ \ \\
+\sum_{k=1}^{N}\frac{V_k}{R_k}-\sum_{k=1}^{N}\frac{V_A}{R_k}=0
+\\ \ \\
+\sum_{k=1}^{N}\frac{V_k}{R_k}=V_A\sum_{k=1}^{N}\frac{1}{R_k}
+\\ \ \\
+V_A=\frac{ \sum_{k=1}^{N}\frac{V_k}{R_k} } {\sum_{k=1}^{N}\frac{1}{R_k}}
+
+$$
+
+## Générateur de thévenin équivalent
+
+**Quel est le but ?**
+
+Le but est de remplacé une partie du circuit par un Générateur et une résistance équivalente afin de simplifier le circuit.
+
+> 
+> Etape 1 : découper le circuit :
+> on imagine qu'on retire les éléments dont on souhaite calculer le courant du circuit
+>
+> Etape 2 : éteindre les sources de tensions/courants (=fil) :
+> grâce à cela on va pouvoir déterminer la résistance de thévenin 
+>
+> Etape 3 : rallumer les sources et déterminer la tension des deux pôles autour des éléments retirés
