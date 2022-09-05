@@ -4,17 +4,17 @@
 
 > **Loi d'Ohm**
 > 
-> $ U_R = R × I_R $ 
+> $U_R = R × I_R$ 
 > 
-> $ u(t) = R × i_R(t) $ 
+> $u(t) = R × i_R(t)$ 
 
 > **Loi Capacité**
 > 
-> $ i_C(t) = C × \frac{\partial{u_C(t)}}{\partial{t}} $
+> $i_C(t) = C × \frac{\partial{u_C(t)}}{\partial{t}}$ 
 
 > **Loi Inductance**
 > 
-> $ u_L(t) = L × \frac{\partial{i_L(t)}}{\partial{t}} $
+> $u_L(t) = L × \frac{\partial{i_L(t)}}{\partial{t}}$ 
 
 ## Lois de Kirchhoff
 
@@ -22,7 +22,7 @@
 >
 > Au noeud A, la somme des courants qui rentre est égale à la somme des courants qui sortent
 > 
-> $ I_1 + I_2 + I_3 = I_4 + I_5 $ 
+> $I_1 + I_2 + I_3 = I_4 + I_5$ 
 
 ### 1.2.2 : Loi des mailles
 
@@ -30,19 +30,19 @@ exemples de circuits :
 
 ![lois des mailles](https://github.com/Cours-ESIR/Medias/raw/main/lois%20maille.png)
 
-Maille 1 : $E,R_1,R_2$
+Maille 1 : $E,R_1,R_2$ 
 
-Maille 2 : $R_2,R_3$
+Maille 2 : $R_2,R_3$ 
 
-Maille 3 : $E,R_1,R_3$
+Maille 3 : $E,R_1,R_3$ 
 
 > **Loi des mailles** 
 >
-> sur une maille : $\sum_{i}u_i=0$
+> sur une maille : $\sum_{i}u_i=0$ 
 
 Exemple : 
 
-Maille 1 : $E-R_1I_1-R_2I_2=0$
+Maille 1 : $E-R_1I_1-R_2I_2=0$ 
 
 Maille 2 : $R_2I_2-R_3I_3=0$ 
 
