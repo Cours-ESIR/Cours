@@ -1,16 +1,14 @@
 # Suites Séries numériques
 
-
-Soit $(U_n)\quad n\in\N$
-
+Soit $(U_n)\quad n\in\N$  
 Et $S_p=\sum^Pu_n$
 
 <br/>
 
 Propriété :
 
-Si $\sum u_n$ converge, alors $\lim_{n\rightarrow\infty}u_n=0$
-On pose $S=\lim_{p\rightarrow\infty}S_p=\sum_{n=1}^\infty$ 
+Si $\sum u_n$ converge, alors $\lim_{n\rightarrow\infty}u_n=0$  
+On pose $S=\lim_{p\rightarrow\infty}S_p=\sum_{n=1}^\infty$
 
 <br/>
 Rappel:

@@ -18,8 +18,9 @@ $$
 % }
 % \global\newcommand{\vec}[1]{\overrightarrow{#1}}
 $$
-le td1
+le td1  
 $$
+
 \begin{split}
     &f:\R^2\rightarrow\R\n
 
