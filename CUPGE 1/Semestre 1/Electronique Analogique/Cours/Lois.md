@@ -28,7 +28,7 @@
 
 exemples de circuits : 
 
-![lois des mailles](./lois maille.png)
+![lois des mailles](./lois_maille.png)
 
 Maille 1 : $E,R_1,R_2$ 
 
@@ -54,7 +54,7 @@ Maille 3 : $E-R_1I_1-R_3I_3=0$
 
 ### 1.3.1 : Résistance en série
 
-![Résistance en série](./résistances série.png)
+![Résistance en série](./résistances_série.png)
 
 -> résistance équivalente
 
