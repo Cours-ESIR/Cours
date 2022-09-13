@@ -28,7 +28,7 @@
 
 exemples de circuits : 
 
-![lois des mailles](https://github.com/Cours-ESIR/Medias/raw/main/lois%20maille.png)
+![lois des mailles](./lois maille.png)
 
 Maille 1 : $E,R_1,R_2$ 
 
@@ -54,7 +54,7 @@ Maille 3 : $E-R_1I_1-R_3I_3=0$
 
 ### 1.3.1 : Résistance en série
 
-![Résistance en série](https://github.com/Cours-ESIR/Medias/raw/main/r%C3%A9sistances%20s%C3%A9rie.png)
+![Résistance en série](./résistances série.png)
 
 -> résistance équivalente
 
@@ -137,7 +137,7 @@ $$
 
 ## Théorème de Millman
 
-![Millman](http://res-nlp.univ-lemans.fr/NLP_C_M14_G01/res/Fig_16.gif)
+![Millman](./Fig_16.gif)
 
 $$
 U_1 = R_1I_1
