@@ -30,7 +30,7 @@ En parallèlle = En dérivation
 
 ## Dipoles :
 
-| Nom           | Symbole     | Unité           | Grandeur   |
+| Nom           | Symbole     | Grandeur           | Unité   |
 |:--------------|:-----------:|:----------------|:-----------|
 | résistance    | <svg width="33" height="10" viewBox="0 0 33 10" style="stroke:var(--text)"  fill="none" xmlns="http://www.w3.org/2000/svg"><line x1="4" y1="4.94446" x2="-2.18557e-08" y2="4.94446"/><line x1="33" y1="4.94446" x2="29" y2="4.94446"/><rect x="29" y="9.5" width="25" height="9" transform="rotate(-180 29 9.5)"/></svg> <svg width="33" height="12" viewBox="0 0 33 12" style="stroke:var(--text)"  fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 6.45455H4.86885L8.11475 1L14.0656 11L20.0164 1L25.9672 11L29.2131 5.84848H33"/></svg>| Résistance (R) | Ohm (Ω)   |
 | bobine        | <svg width="33" height="12" viewBox="0 0 33 12" style="stroke:var(--text)"  fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 11H2.91176V4.88889C2.91176 2.74112 4.43268 1 6.30882 1C8.18497 1 9.70588 2.74112 9.70588 4.88889M9.70588 4.88889C9.70588 2.74112 11.2268 1 13.1029 1C14.9791 1 16.5 2.74112 16.5 4.88889M9.70588 4.88889V11M16.5 4.88889C16.5 2.74112 18.0209 1 19.8971 1C21.7732 1 23.2941 2.74112 23.2941 4.88889M16.5 4.88889V11M23.2941 4.88889V11M23.2941 4.88889C23.2941 2.74112 24.815 1 26.6912 1C28.5673 1 30.0882 2.74112 30.0882 4.88889V11H33"/></svg> | Inductance (L) | Henry (H) |
