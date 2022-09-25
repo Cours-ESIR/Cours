@@ -2,7 +2,7 @@
 
 Le but de cette exercice est de récreer un Uno basique en réseau que vous pourrez parfaire si vous le souhaitez.
 
-## Les fonctionnalités attendus
+## Les fonctionnalités attendues
 
 - à l'entrée du premier joueur, le serveur demendera combien de joueur devront rejoindre (entre 1 et 6)
 - une barre avec les cartes qui devront s'afficher en ligne numéroté plus une dernière qui représentera la pioche
