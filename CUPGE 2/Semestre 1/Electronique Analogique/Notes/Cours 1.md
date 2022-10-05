@@ -22,7 +22,7 @@ ___
 
 Pour symboliser un AOP on a 2 possibilités :
 
-![schéma d'un AOP](../../../../media/AOP.png)
+![schéma d'un AOP](./AOP.png)
 
 Si on utilise un AOP en hautes fréquences, de nombreuses imperfections apparaissent:
 
@@ -43,7 +43,7 @@ $$
 - Dans le cas de l'AOP idéal, $A_{V_D} \rightarrow \inf$ et $A_{V_{MC}} \rightarrow 0$, soit $\epsilon = V^+ - V^- = 0\text{V}\Rightarrow V^+ = V^-$  
 - $i^+ = 0\text{A},\ i^- = 0\text{A}$ donc les impédences d'entrées sont infinies.  
 
-![est-ce vraiment l'AOP idéale ?](../../../../media/schéma1.png)
+![est-ce vraiment l'AOP idéale ?](./schéma1.png)
 
 ### 3 : Les 3 régimes de fonctionnement
 
@@ -59,7 +59,7 @@ Le régime linéaire se caractérise par:
 
 _Exemple :_
 
-![schéma AOP avec AVD](../../../../media/schéma%202.png)
+![schéma AOP avec AVD](./schéma%202.png)
 
 Supposons que l'AOP est idéal :  
 Calculons $V_s = f(V_e)$  
@@ -121,7 +121,7 @@ Le régime non linéaire se caractérise par :
 
 <u>Exemple :</u> Le comparateur inverseur
 
-![comparateur inverseur](../../../../media/schéma%203.png)
+![comparateur inverseur](./schéma%203.png)
 
 L'étude du comparateur reviens à étudier le signe de $\epsilon = V^+ - V^-$ .
 
@@ -140,4 +140,4 @@ Dès que $V_e$ ( $=V^-$ ) devient supérieure à $V^+ (\frac{R_1}{R_1+R_2}V_{sat
 Tant que $V_e$ est supérieure à $V^+(-\frac{R_1}{R_1+R_2}V_{sat})$, $V_s$ reste à $-V_{sat}$  
 Dès que $V_e$ devient inférieur à $V^+(-\frac{R_1}{R_1+R_2}V_{sat})$, la sortie du comparateur bascule et $V_s$ passe à nouveau à $+ V_{sat}$
 
-![graphe d'inversion](../../../../media/schéma%204.png)
+![graphe d'inversion](./schéma%204.png)
