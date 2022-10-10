@@ -8,12 +8,13 @@ Aussi connu sous le nom de ("SDLC") (Software Development Life Cycle), le cycle 
 
 ## Motivation
 
+La SDLC :
 - Vous donne un "Framework" pour mener à bien un projet.
 - Vous aide à avoir un planning pour ce projet.
-- le SDLC vous aide à gérer les ressources et le budget.
-- Vous aide à réduire les coûts lié au développement non nécessaire.
+- Vous aide à gérer les ressources et le budget.
+- Vous aide à réduire les coûts liés au développement non nécessaire.
 
-| Recherche de la solution en CM =>       | Les 7 phases officielles du SDLC |
+| Recherche de la solution en CM ⇒       | Les 7 phases officielles du SDLC |
 | --------------------------------------- | -------------------------------- |
 | Définition des objectifs (User Stories) | Analyse et planification         |
 | Conception                              | Ressources et budget             |
@@ -26,7 +27,7 @@ Aussi connu sous le nom de ("SDLC") (Software Development Life Cycle), le cycle 
 | Documentation                           |
 | Retour utilisateur                      |
 | Maintenance                             |
-| Adequation avec les besoins             |
+| Adéquation avec les besoins             |
 
 ## Historique
 
@@ -49,13 +50,13 @@ Le modèle Waterfall est un modèle de développement logiciel qui sépare les p
 
 # Le modèle en V
 
-Version amélioré du modèle Waterfall, où les phases de développement sont séparées en deux parties: la phase de développement et la phase de test. Il permet au client de faire plus de retour sur le produit en cours de développement.
+Version améliorée du modèle Waterfall, où les phases de développement sont séparées en deux parties : la phase de développement et la phase de test. Il permet au client de faire plus de retour sur le produit en cours de développement.
 
 # Le modèle Prototypage
 
 ## Présentation
 
-Le modèle de prototypage consiste en la réalisation succesive de plusieurs prototypes de plus en plus aboutient. Il permet ainsi d'avoir un produit fonctionnel rapidement : MVP (minimum viable product). Ce qui qui permet au client de tester le produit et de le modifier en fonction de ses attentes.
+Le modèle de prototypage consiste en la réalisation successive de plusieurs prototypes de plus en plus aboutis. Il permet ainsi d'avoir un produit fonctionnel rapidement : MVP (minimum viable product). Ce qui permet au client de tester le produit et de le modifier en fonction de ses attentes.
 
 [Vidéo explicative du modèle Prototypage](https://youtu.be/bAEnaGG8Otc)
 
@@ -78,5 +79,5 @@ Le modèle en Spirale est un modèle de développement logiciel qui combine les 
 |Avantages|Inconvénients|
 |:--------|:------------|
 |Utilisation des meilleures pratiques de développement logiciel|Beaucoup plus complexe que les autres modèles|
-|Organiser clairement le processus de développement et le rendre maîtrisable dans sa complexité|Trop dépendant de l'analyse des technique et nécessitant une expertise très spécifique|
+|Organiser clairement le processus de développement et le rendre maîtrisable dans sa complexité|Trop dépendant de l'analyse des techniques et nécessitant une expertise très spécifique|
 |Diminue considérablement le risque d’échec lors des projets logiciels de grande taille| |
