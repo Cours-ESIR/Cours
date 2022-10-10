@@ -59,7 +59,7 @@ Version amélioré du modèle Waterfall, où les phases de développement sont s
 
 Le modèle de prototypage permet d'avoir un produit fonctionnel rapidement. Il permet de tester le produit et de le modifier en fonction des besoins du client.
 
-https://www.youtube.com/watch?v=bAEnaGG8Otc&ab_channel=Udacity
+Vidéo explicative: https://www.youtube.com/watch?v=bAEnaGG8Otc&ab_channel=Udacity
 
 ### Avantages
 
@@ -76,7 +76,7 @@ Dans la version améliorée du modèle de prototypage, le modèle de développem
 
 Le modèle en Spirale est un modèle de développement logiciel qui combine les phases de développement et de test. Il permet au client de faire des retours sur le produit en cours de développement. Il est considéré comme un modèle itératif, car les phases de développement et de test se chevauchent.
 
-https://www.youtube.com/watch?v=mp22SDTnsQQ&ab_channel=Udacity
+Vidéo explicative: https://www.youtube.com/watch?v=mp22SDTnsQQ&ab_channel=Udacity
 
 ### Avantages
 
