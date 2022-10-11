@@ -1,5 +1,5 @@
 # Gestion de projet et démarche agile
-
+CM OMD 10/10/2022 
 ## Définition
 
 La gestion de projet est un ensemble de méthodes et de techniques qui permettent de mener à bien un projet. Elle permet de définir les objectifs, de planifier les tâches, de gérer les ressources, de suivre l'avancement et de contrôler le budget.
