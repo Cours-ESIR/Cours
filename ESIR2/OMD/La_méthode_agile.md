@@ -110,17 +110,15 @@ En fin de CM, nous avons fait un jeu/exercice démontrant l'efficacité de la m�
 | Découpage en 3 équipes                            | $+\infty$ Balles simples |
 | 1 équipe en mode classique                        | 4 Balles à 2 points      |
 | 2 équipes en mode agile                           | 1 Avion à 10 points      |
-| Agile: 5 itérations avec 30s de rétrospective      |                          |
+| Agile: 5 itérations avec 30s de rétrospective     |                          |
 | Classique: Gros temps de réflexion et 1 tentative |                          |
-|                                                   |                          |
 ## Résultats
 
 | Catégorie  | Agile Au départ | Agile Au final    | Classique                |
 | :--------- | :-------------- | :---------------- | :----------------------- |
-| Estimation | Trop faible     | La Meilleure      | Loin de la réalité      |
+| Estimation | Trop faible     | La Meilleure      | Loin de la réalité       |
 | Erreurs    | Beaucoup        | Le Meilleur ratio | De débutant              |
-| technique  | Basique         | La Meilleure      | Évoluée, mais pas adaptée |
-|            |                 |                   |                          |
+| technique  | Basique         | La Meilleure      | Évoluée, mais pas adaptée|
 
 ## Conclusion
 
