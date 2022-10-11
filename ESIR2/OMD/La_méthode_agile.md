@@ -103,7 +103,7 @@ Un des grands point de la méthode agile est la définition et l'estimation de t
 - Chercher un ordre de grandeur de la tache
 - Définir un critère de fin
 
-# Jeu des lancés du balles
+# Jeu des lancés de balles
 En fin de CM, nous avons fait un jeu/exercice démontrant l'efficacité de la méthode agile.
 | Règles                                            | Matériel                 |
 | :------------------------------------------------ | :----------------------- |
