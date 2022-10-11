@@ -1,19 +1,22 @@
-# CM OMD 11/10/2022 La méthode agile
+# La méthode agile
+CM OMD 11/10/2022 
 
 ## Résumé du cours précédent
 
-### I. Pratique anciennes
-Les anciennes SDLC, visent à découper un projet en livraisons successives Permet d'échelonner l'avancement / De faire des retours produits
+### I. Premières SDLC 
+Les premières SDLC visent à découper un projet en étapes succesives, ce qui permet d'échelonner l'avancement. 
 
-## Pratique itérative
-On démarre avec une première esquisse du projet complet, puis on l'améliore au fur et à mesure des versions
+Mais elles ne prennent pas en compte les changements qui peuvent survenir au cours du développement du projet.
 
-On y utilise un principe clé : "la rétroaction", c'est apprendre en développant, apprendre en utilisant le produit de l'utilisation précédente
-Car il n'est pas possible de spécifier un bon produit : pas possible de tout prévoir, il faut donc s'adapter au fur et à mesure
+### II. SDLC itérative
 
-C'est une amélioration des pratiques, mais pas encore agile
+Pour les SDLC itératives (modèle Spiral, modèle prototypage), on démarre avec une première esquisse du projet complet, puis on l'améliore au fur et à mesure des versions.
 
-## Agile
+On y utilise un principe clé : "la rétroaction", c'est apprendre en développant : apprendre en utilisant le produit de l'utilisation précédente. Il a été vu, qu'il n'est pas possible de spécifier un bon produit : pas possible de tout prévoir, il faut donc s'adapter au fur et à mesure.
+
+C'est une amélioration des pratiques, mais pas encore jusqu'au niveau agile.
+
+# Méthode Agile
 
 | Principe du management         | Caractéristiques                                          |
 | :----------------------------- | :-------------------------------------------------------- |
@@ -33,7 +36,7 @@ C'est une amélioration des pratiques, mais pas encore agile
 
 ## Définition
 
-- Processus agile où on fabrique le meilleur produit en temps réduit : de 2 à 4 semaines
+- Processus de la méthode agile où on fabrique le meilleur produit en temps réduit : de 2 à 4 semaines
 - Création d'un produit à chaque periode appelée "sprint"
 - Le client donne ses priorités et l'équipe s'organise pour réaliser les plus prioritaires
 - À la fin de chaque sprint, le produit est livré au client et tout le monde peut voir ce qui a été fait
@@ -43,24 +46,33 @@ C'est une amélioration des pratiques, mais pas encore agile
 </p>
 
 
-Scurm permet d'organiser le développemebt mais ne spécifie pas comment le faire, les méthodes d'ingénierie reste libre
+Scurm permet d'organiser le développement mais ne spécifie pas comment le faire, les méthodes d'ingénierie reste libre
+
+## Termes
+
+**"BACKLOG"** : Ensemble des user stories à réaliser
+
+**"USER STORY"** : Description d'une fonctionnalité avec son contexte et du sens. Rédigée sous forme de série de phrases rédigées dans un langage simple et compréhensible par tous. ELle ne contenant pas de détails techniques et permet une meilleure compréhension du besoin par les développeurs.
 
 ## Fixer le cadre des développements
 
-BACKLOG : Ensemble des user stories à réaliser
-USER STORY : Donne du contexte et du sens aux développeurs pour le développement d'une fonctionnalité. Série de phrases rédigées dans un langage simple et compréhensible par tous, ne contenant pas de détails techniques
-
-### Sprint 0
+### I. Sprint 0
 Le Sprint 0 est le premier sprint du projet, où l'on :
-- Définit des bases du produit, mode de travail, objetifs, attentes, etc...
-- Permet de valider les points techniques durs
+- Définit les bases du produit, mode de travail, objetifs, attentes, etc...
+- On fixe le cadre du projet, ses contraintes, priorités, etc...
+- Clarifie les communications : 
+  - Le modèle d'analyse
+  - Le dictionnaire commun
+  - Les notions communes
+  - Le modèle du problème
+  - Les utilisateurs
+  - Les actions 
+  - etc...
+- Valide les points techniques durs
 - Montre une première version du produit qui démontre que le projet est réalisable
-- Permet de faire une mini estimation du backlog produit
+- Faire une mini estimation du backlog du produit
 
-Explication du projet, des attentes, des contraintes, des priorités : on fixe le cadre
-Le modèle d'analyse, définition du dictionnaire commun, fixer les notions communes, comprendre le modèle du problème, les utilisateurs, les actions etc...
-
-### Les autres sprints
+### II. Les autres sprints
 Les autres sprints sont des sprints de développement, où l'on :
 - Fabrique un produit plus complet que le précédent
 - On fabrique toujours un produit utilisable par le client
@@ -70,25 +82,23 @@ On fabrique pour cela une revue de planification du sprint, où en fonction du b
 - Définir les user stories à réaliser
 - Définir les tâches à réaliser pour chaque user story
 
-### Réunion quotidienne
+### III. Réunion quotidienne
 
 entré : le sprint backlog / un outils de suivi des taches
 
 sortie remise à niveau du backlog
 
-### Revue de sprint
+### IV. Revue de sprint
 
 Valider l'avancement/ analyser le résultat / définir les priorités
 
-### Sprint review / Sprint retrospective
+### V. Sprint review / Sprint retrospective
 
 - Identifier les bonnes pratiques
 - Identifier les points à améliorer / abandonner
 - On prend au final une ou deux résolutions pour le prochain sprint
 
-# autre
-
-### Définir et estimer une taches
+### VI. Définir et estimer une taches
 - Chercher un ordre de grandeur de la tache
 - Définir un critère de fin
 
